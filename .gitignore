@@ -9,3 +9,5 @@ data/content/*
 # Ignore all files in data/content/posts and subfolders, but keep the empty folders
 data/content/posts/*
 !data/content/posts/.gitkeep
+
+.DS_Store
