@@ -1,13 +1,13 @@
 # Ignore all files in data/collections, but not the folder itself
-data/collections/*
-!data/collections/.gitkeep
+src/data/collections/*
+!src/data/collections/.gitkeep
 
 # Ignore all files in data/content and subfolders, but keep the empty folders
-data/content/*
-!data/content/.gitkeep
+src/data/content/*
+!src/data/content/.gitkeep
 
 # Ignore all files in data/content/posts and subfolders, but keep the empty folders
-data/content/posts/*
-!data/content/posts/.gitkeep
+src/data/content/posts/*
+!src/data/content/posts/.gitkeep
 
 .DS_Store
