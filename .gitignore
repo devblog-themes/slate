@@ -1,0 +1,11 @@
+# Ignore all files in data/collections, but not the folder itself
+data/collections/*
+!data/collections/.gitkeep
+
+# Ignore all files in data/content and subfolders, but keep the empty folders
+data/content/*
+!data/content/.gitkeep
+
+# Ignore all files in data/content/posts and subfolders, but keep the empty folders
+data/content/posts/*
+!data/content/posts/.gitkeep
